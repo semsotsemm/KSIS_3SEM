@@ -1,0 +1,5 @@
+﻿  client_part.cpp
+  server_part.cpp
+  Создание кода...
+server_part.obj : error LNK2005: main уже определен в client_part.obj
+C:\Users\user\work_space\Laboratory_work\KSIS_3SEM\laboratory_task_2\laboratory_task_2\x64\Debug\laboratory_task_2.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
